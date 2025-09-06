@@ -15,7 +15,8 @@
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript  
 - **Backend:** Node.js, Express.js, GraphQL  
-- **Database:** MongoDB  
+- **Database:** MongoDB
+- **Mobile Dev** Flutter, Dart  
 - **Other:** Python (Data Science & ML), Git, REST APIs  
 
 ---
