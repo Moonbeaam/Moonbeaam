@@ -21,12 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonbeaam&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Let's Connect
-- Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/marc-agaceta/).
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marc-agaceta/).
 
 ---
