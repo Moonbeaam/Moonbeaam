@@ -26,6 +26,6 @@
 ---
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/marc-agaceta/)
+- Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/marc-agaceta/).
 
 ---
