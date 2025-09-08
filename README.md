@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 Fresh graduate passionate about **Full-Stack Web Development** and **Data Science**  
-- 🌱 Currently learning **GraphQL** and **Golang**  
+- 🌱 Currently learning **GraphQL** and **Svelte**  
 - 💻 Building projects with **React, Node.js, Express.js, and MongoDB**  
 - 🤖 Exploring **n8n for Automation**  
 
